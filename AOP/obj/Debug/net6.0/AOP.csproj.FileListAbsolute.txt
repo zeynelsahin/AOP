@@ -1,0 +1,15 @@
+C:\Users\zynls\Masaüstü\BtkAkademi\CSharp\AOP\AOP\bin\Debug\net6.0\AOP.exe
+C:\Users\zynls\Masaüstü\BtkAkademi\CSharp\AOP\AOP\bin\Debug\net6.0\AOP.deps.json
+C:\Users\zynls\Masaüstü\BtkAkademi\CSharp\AOP\AOP\bin\Debug\net6.0\AOP.runtimeconfig.json
+C:\Users\zynls\Masaüstü\BtkAkademi\CSharp\AOP\AOP\bin\Debug\net6.0\AOP.dll
+C:\Users\zynls\Masaüstü\BtkAkademi\CSharp\AOP\AOP\bin\Debug\net6.0\AOP.pdb
+C:\Users\zynls\Masaüstü\BtkAkademi\CSharp\AOP\AOP\obj\Debug\net6.0\AOP.csproj.AssemblyReference.cache
+C:\Users\zynls\Masaüstü\BtkAkademi\CSharp\AOP\AOP\obj\Debug\net6.0\AOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zynls\Masaüstü\BtkAkademi\CSharp\AOP\AOP\obj\Debug\net6.0\AOP.AssemblyInfoInputs.cache
+C:\Users\zynls\Masaüstü\BtkAkademi\CSharp\AOP\AOP\obj\Debug\net6.0\AOP.AssemblyInfo.cs
+C:\Users\zynls\Masaüstü\BtkAkademi\CSharp\AOP\AOP\obj\Debug\net6.0\AOP.csproj.CoreCompileInputs.cache
+C:\Users\zynls\Masaüstü\BtkAkademi\CSharp\AOP\AOP\obj\Debug\net6.0\AOP.dll
+C:\Users\zynls\Masaüstü\BtkAkademi\CSharp\AOP\AOP\obj\Debug\net6.0\refint\AOP.dll
+C:\Users\zynls\Masaüstü\BtkAkademi\CSharp\AOP\AOP\obj\Debug\net6.0\AOP.pdb
+C:\Users\zynls\Masaüstü\BtkAkademi\CSharp\AOP\AOP\obj\Debug\net6.0\AOP.genruntimeconfig.cache
+C:\Users\zynls\Masaüstü\BtkAkademi\CSharp\AOP\AOP\obj\Debug\net6.0\ref\AOP.dll
